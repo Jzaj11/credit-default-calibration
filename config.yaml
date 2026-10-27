@@ -1,0 +1,18 @@
+
+
+project:
+  name: "credit-default-calibration"
+  random_seed: 42
+
+data:
+  raw_dir: "data/raw"
+  processed_dir: "data/processed"
+  target_column: "default.payment.next.month"
+
+split:
+  test_size: 0.20
+  validation_size: 0.20
+  random_state: 42
+
+modeling:
+  random_state: 42
