@@ -1,0 +1,26 @@
+
+# Data that cannot be stored in GitHub
+data/*
+!data/README.md
+
+# Python environment and cache files
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+
+# Notebooks — temp files and checkpoints
+.ipynb_checkpoints/
+
+# env variables
+.env
+.env.*
+
+# temp files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# temp logs
+*.log
