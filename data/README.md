@@ -11,7 +11,7 @@ Ocena ryzyka niewypłacalności posiadaczy kart kredytowych z kalibracją prawdo
 - Dane: https://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients 
 - Liczba obserwacji: około 30 000.
 - Dane dotyczą klientów kart kredytowych na Tajwanie.
-- Dane historyczne dotyczą 2005 roku.
+- Dane historyczne z 2005 roku.
 - Zmienna docelowa: `default.payment.next.month` — do potwierdzenia po pobraniu i sprawdzeniu danych.
 
 ## Organizacja plików
